@@ -6,9 +6,7 @@
 
 <code><img height="20" alt="python" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGsHD3Es3LoEjFpNd1vmJp1y_ESB_LSMqcKSCSR9i5Q&s"></code>
 <code><img height="20" alt="RStudio" src="https://w7.pngwing.com/pngs/801/880/png-transparent-rstudio-macos-r-blue-text-trademark.png"></code>
-<code><img height="20" alt="LaTeX" src="https://logowik.com/content/uploads/images/latex6119.logowik.com.webp"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" alt="LaTeX" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5PR1FyEUM3Jj4i4m7rAHUKH8zJ9XKMN8alo6Klg7ZZzwVYjtXqDCU8FY3PtGojPAJozE&usqp=CAU"></code>
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
