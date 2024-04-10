@@ -10,7 +10,7 @@
 <code><img height="20" alt="LaTeX" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5PR1FyEUM3Jj4i4m7rAHUKH8zJ9XKMN8alo6Klg7ZZzwVYjtXqDCU8FY3PtGojPAJozE&usqp=CAU"></code>
 
 
-<a href="https://github.com/eduardavalerio/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardavalerio&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Eduarda's github stats" /></a> 
-<a href="https://github.com/eduardavalerio/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavalerio&layout=compact&theme=dracula&hide_border=true" /></a>
+<a href="https://github.com/eduardavalerio/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardavalerio&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Eduarda's github stats" /></a> 
+<a href="https://github.com/eduardavalerio/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavalerio&layout=compact&theme=dark&hide_border=true" /></a>
 
 
