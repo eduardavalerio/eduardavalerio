@@ -19,5 +19,3 @@
 
 <a href="https://github.com/eduardavalerio/github-readme-stats"><img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=eduardavalerio&show_icons=true&include_all_commits=true&theme=ocean_dark&hide_border=true&rank_icon=github&hide_title=false" alt="Github stats" /></a> 
 <a href="https://github.com/eduardavalerio/github-readme-stats"><img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavalerio&layout=donut&theme=ocean_dark&hide_border=true" /></a>
-
-
