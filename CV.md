@@ -41,4 +41,4 @@ Languages
   - Cambridge Certified Preliminary English Test (B1), Credential ID B3508893.
  
 
-[PDF file]{https://github.com/eduardavalerio/eduardavalerio/blob/main/Short_CV_Eduarda.pdf}
+[PDF file](https://github.com/eduardavalerio/eduardavalerio/blob/main/Short_CV_Eduarda.pdf)
