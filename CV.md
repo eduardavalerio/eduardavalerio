@@ -1,31 +1,41 @@
 # Eduarda Valério de Jesus 
 📧 `eduarda.jesus@usp.br`
 
+Undergraduate student at Oceanographic Institute of the University of São Paulo, interested in Biological and Physical Oceanography, working with molecular ecology and bioinformatics related to environmental DNA (eDNA) with funding from São Paulo Research Foundation (FAPESP).
 
 ## Education
 
-* B.S. in Oceanography, University of São Paulo, 2026 (expected)
+**Oceanography - BSc degree | 2022 - 2025 (intended) | University of São Paulo, Brazil**
+  - Oceanographic Institute. University of São Paulo (USP), Brazil.
 
-## Work experience
 
-* November 2022 - Present
-  
-  Scholarship student of Scientific Initiation funding by São Paulo Research Foundation (FAPESP).
-  > Multilocus DNA barcode of marine species not represented in sequences database: subsidies for DNA metabarcoding of the São Paulo coast
-  * Supervisor: Dr. Rodrigo Rodrigues Domingues ([IOSUP](https://www.io.usp.br/index.php/perfil/userprofile/rrdomingues)).
-    
- __Affiliation__ <br>Oceanographic Institute, University of São Paulo, Praça Oceanográfico 191 São Paulo, Brazil. 
-  
-## Skills
+## Complementary education 
 
-* Laboratory techniques
-* Gather environmental and biological samples
-* Scuba dive
-* Bioinformatics (R programming language)
- 
-## Licenses and certifications
+- Course, Assessing Ecosystem Health using Copernicus Marine Data. (Credit Hours: 5h). Mercator Océan, GIP - Mercator, França.
+- Course, Geoprocessing applied to biodiversity and the environment. (Credit Hours: 9h). Oceanographic Institute, IOUSP, Brazil.
+- Course, Communication and Scientific Writing. (Credit Hours: 5h). American Chemical Society, United States.
+- Course, Open Water Diver (Credit Hours: 20h). Professional Association of Diving Instructors, PADI, Brazil.
 
-**January 2021** <br>Cambridge Certified Preliminary English Test (B1)
-> Cambridge University Press & Assessment English <br>Credential ID B3508893
 
-**April 2023** <br>PADI Open Water Diver 
+## Grants and Awards 
+
+- Grant #2022/14631-1 Scientific Initiation of São Paulo Research Foundation (FAPESP). “Multilocus DNA barcode of marine species not represented in sequences database: subsidies for DNA metabarcoding of the São Paulo coast”.- 24th Brazilian Astronomy and Astronautics Olympiad (OBA). Bronze Medal – Brazilian Astronomy and Astronautics Olympiad. 2021.
+- VI Brazilian GeoBrasil Olympiad. Gold Medal – GeoBrasil Brazilian Olympiad. 2021.
+- International Olympiad Mathématiques Sans Frontières. National Silver Medal - OIMSF. 2019.
+- International Olympiad Mathématiques Sans Frontières. State Gold Medal - OIMSF. 2019.
+- 12th Brazilian Rocket Show. Silver Medal - Brazilian Rocket Show. 2018.
+- 21st Brazilian Astronomy and Astronautics Olympiad (OBA). Gold Medal – Brazilian Astronomy and Astronautics Olympiad. 2018.
+
+
+## Presentation of Work 
+
+- JESUS, E. V.; GUERRA, I. B. M.; DOMINGUES, R. R.. Porifera Biodiversity of São Paulo and the Representation in Sequences Databases. 2024. (Brazilian Reef Meeting, Niterói, RJ - Brazil);
+- JESUS, E. V.; DOMINGUES, R. R.. Porifera Biodiversity of São Paulo and its representativeness in sequence databases. 2023. (XVIII Thematic week of Oceanography, São Paulo, SP - Brazil).
+
+
+## Additional informations 
+
+Languages 
+- Portuguese (native)
+- English (B1).
+  - Cambridge Certified Preliminary English Test (B1), Credential ID B3508893.
