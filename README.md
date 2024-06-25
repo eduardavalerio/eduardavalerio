@@ -16,6 +16,6 @@
 ##
 
 
-<a href="https://github.com/eduardavalerio/github-readme-stats"><img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=eduardavalerio&show_icons=true&theme=ocean_dark&hide_title=true&hide_border=true&rank_icon=github" alt="Github stats" /></a> 
-<a href="https://github.com/eduardavalerio/github-readme-stats"><img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavalerio&layout=donut&theme=ocean_dark&hide_border=true" /></a>
+<a href="https://github.com/eduardavalerio/github-readme-stats"><img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=eduardavalerio&show_icons=true&theme=ocean_dark&hide_title=true&hide_border=true&rank_icon=github" alt="Github stats" /></a> 
+<a href="https://github.com/eduardavalerio/github-readme-stats"><img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavalerio&layout=donut&theme=ocean_dark&hide_border=true" /></a>
 
