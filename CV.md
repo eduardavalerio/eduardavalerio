@@ -1,12 +1,15 @@
 # Eduarda Valério de Jesus 
 📧 `eduarda.jesus@usp.br`
 
-Undergraduate student at Oceanographic Institute of the University of São Paulo, interested in Biological and Physical Oceanography, working with molecular ecology and bioinformatics related to environmental DNA (eDNA) with funding from São Paulo Research Foundation (FAPESP).
+Undergraduate student at Oceanographic Institute of the University of São Paulo, interested in Biological and Physical Oceanography, working with molecular ecology and bioinformatics related to environmental DNA (eDNA) in coastal islands in the state of São Paulo, this project is fully funded by São Paulo Research Foundation (FAPESP). International experience at University of Salford, UK, working with eDNA and DNA Metabarcode workflow, funded by FAPESP. 
 
 ## Education
 
 **Oceanography - BSc degree | 2022 - 2025 (intended) | University of São Paulo, Brazil**
   - Oceanographic Institute. University of São Paulo (USP), Brazil.
+
+**Visitor researcher | Sep 2024 - Dec 2024 | University of Salford, United Kingdom**
+  - School of Science, Engineering and Environment. University of Salford, United Kingdom. 
 
 
 ## Complementary education 
