@@ -1,7 +1,5 @@
 ### 👋 Hi, I'm @eduardavalerio 
 
-[My academic webpage] - In construction
-
 [My Curriculum vitae](https://github.com/eduardavalerio/eduardavalerio/blob/main/CV.md)
 
 
