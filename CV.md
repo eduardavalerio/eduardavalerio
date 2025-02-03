@@ -40,8 +40,9 @@ Undergraduate student at Oceanographic Institute of the University of São Paulo
 
 Languages 
 - Portuguese (native)
-- English (B1).
+- English
   - Cambridge Certified Preliminary English Test (B1), Credential ID B3508893.
+  - International experience
  
 
 [PDF file](https://github.com/eduardavalerio/eduardavalerio/blob/main/Short_CV_Eduarda.pdf)
