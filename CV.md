@@ -34,6 +34,9 @@ Undergraduate student at Oceanographic Institute of the University of São Paulo
 
 - JESUS, E. V.; GUERRA, I. B. M.; DOMINGUES, R. R.. Porifera Biodiversity of São Paulo and the Representation in Sequences Databases. 2024. (Brazilian Reef Meeting, Niterói, RJ - Brazil);
 - JESUS, E. V.; DOMINGUES, R. R.. Porifera Biodiversity of São Paulo and its representativeness in sequence databases. 2023. (XVIII Thematic week of Oceanography, São Paulo, SP - Brazil).
+- DOMINGUES, R. R. ; JESUS, E. V. ; BUXBAUM, I. M. G. ; LOTUFO, T. M. C. . Challanges for biomonitoring 2.0 of marine habitat-forming species in Brazil.. 2024. (Apresentação de Trabalho/Congresso).
+- DOMINGUES, R. R. ; JESUS, E. V. ; BUXBAUM, I. M. G. ; LOTUFO, T. M. C. . Absence of representative sequences hinders the biomonitoring 2.0 of marine habitat-forming species in Brazil. 2024. (Apresentação de Trabalho/Congresso).
+
 
 
 ## Additional informations 
@@ -45,4 +48,4 @@ Languages
   - International experience
  
 
-[PDF file](https://github.com/eduardavalerio/eduardavalerio/blob/main/Short_CV_Eduarda.pdf)
+[Curriculo Lattes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do#LP_Barcoding%20and%20metabarcoding%20of%20reef-associated%20species%20of%20the%20S%C3%A3o%20Paulo%20coastal%20islands)
