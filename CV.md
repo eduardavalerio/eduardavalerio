@@ -22,7 +22,9 @@ Undergraduate student at Oceanographic Institute of the University of São Paulo
 
 ## Grants and Awards 
 
-- Grant #2022/14631-1 Scientific Initiation of São Paulo Research Foundation (FAPESP). “Multilocus DNA barcode of marine species not represented in sequences database: subsidies for DNA metabarcoding of the São Paulo coast”.- 24th Brazilian Astronomy and Astronautics Olympiad (OBA). Bronze Medal – Brazilian Astronomy and Astronautics Olympiad. 2021.
+- Grant #2022/14631-1 Scientific Initiation of São Paulo Research Foundation (FAPESP). “Multilocus DNA barcode of marine species not represented in sequences database: subsidies for DNA metabarcoding of the São Paulo coast”.
+- Grant #2024/09214-8 Research Internship Abroad - São Paulo Research Foundation (FAPESP). "Barcoding and metabarcoding of reef-associated species of the São Paulo coastal islands".
+- 24th Brazilian Astronomy and Astronautics Olympiad (OBA). Bronze Medal – Brazilian Astronomy and Astronautics Olympiad. 2021.
 - VI Brazilian GeoBrasil Olympiad. Gold Medal – GeoBrasil Brazilian Olympiad. 2021.
 - International Olympiad Mathématiques Sans Frontières. National Silver Medal - OIMSF. 2019.
 - International Olympiad Mathématiques Sans Frontières. State Gold Medal - OIMSF. 2019.
