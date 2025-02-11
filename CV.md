@@ -32,10 +32,10 @@ Undergraduate student at Oceanographic Institute of the University of São Paulo
 
 ## Presentation of Work 
 
-- JESUS, E. V.; GUERRA, I. B. M.; DOMINGUES, R. R.. Porifera Biodiversity of São Paulo and the Representation in Sequences Databases. 2024. (Brazilian Reef Meeting, Niterói, RJ - Brazil);
-- JESUS, E. V.; DOMINGUES, R. R.. Porifera Biodiversity of São Paulo and its representativeness in sequence databases. 2023. (XVIII Thematic week of Oceanography, São Paulo, SP - Brazil).
-- DOMINGUES, R. R. ; JESUS, E. V. ; BUXBAUM, I. M. G. ; LOTUFO, T. M. C. . Challanges for biomonitoring 2.0 of marine habitat-forming species in Brazil.. 2024. (Apresentação de Trabalho/Congresso).
-- DOMINGUES, R. R. ; JESUS, E. V. ; BUXBAUM, I. M. G. ; LOTUFO, T. M. C. . Absence of representative sequences hinders the biomonitoring 2.0 of marine habitat-forming species in Brazil. 2024. (Apresentação de Trabalho/Congresso).
+- **JESUS, E. V.**; GUERRA, I. B. M.; DOMINGUES, R. R.. Porifera Biodiversity of São Paulo and the Representation in Sequences Databases. 2024. (Brazilian Reef Meeting, Niterói, RJ - Brazil);
+- **JESUS, E. V.**; DOMINGUES, R. R.. Porifera Biodiversity of São Paulo and its representativeness in sequence databases. 2023. (XVIII Thematic week of Oceanography, São Paulo, SP - Brazil).
+- DOMINGUES, R. R. ; **JESUS, E. V.** ; BUXBAUM, I. M. G. ; LOTUFO, T. M. C. . Challanges for biomonitoring 2.0 of marine habitat-forming species in Brazil.. 2024. (Apresentação de Trabalho/Congresso).
+- DOMINGUES, R. R. ; **JESUS, E. V.** ; BUXBAUM, I. M. G. ; LOTUFO, T. M. C. . Absence of representative sequences hinders the biomonitoring 2.0 of marine habitat-forming species in Brazil. 2024. (Apresentação de Trabalho/Congresso).
 
 
 
