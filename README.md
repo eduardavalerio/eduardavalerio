@@ -8,13 +8,12 @@
   <img align="center" alt="Eduarda-RStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
   <img align="center" alt="Eduarda-python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Eduarda-jupyternb" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="Eduarda-vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Eduarda-linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
 
 ##
 
 
-<a href="https://github.com/eduardavalerio/github-readme-stats"><img align="center" height="185" src="https://github-readme-stats.vercel.app/api?username=eduardavalerio&show_icons=true&theme=ocean_dark&hide_title=true&hide_border=true&rank_icon=github" alt="Github stats" /></a> 
-<a href="https://github.com/eduardavalerio/github-readme-stats"><img align="center" height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavalerio&layout=donut&theme=ocean_dark&hide_border=true" /></a>
+<a href="https://github.com/eduardavalerio/github-readme-stats"><img align="center" height="166" src="https://github-readme-stats.vercel.app/api?username=eduardavalerio&show_icons=true&theme=ocean_dark&hide_title=true&hide_border=true&rank_icon=github" alt="Github stats" /></a> 
+<a href="https://github.com/eduardavalerio/github-readme-stats"><img align="center" height="166" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavalerio&layout=donut&theme=ocean_dark&hide_border=true" /></a>
 
