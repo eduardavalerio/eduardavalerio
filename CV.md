@@ -5,7 +5,7 @@ Undergraduate student at Oceanographic Institute of the University of São Paulo
 
 ## Education
 
-**Oceanography - BSc degree | 2022 - 2025 (intended) | University of São Paulo, Brazil**
+**Oceanography - BSc degree | 2022 - 2026 (intended) | University of São Paulo, Brazil**
   - Oceanographic Institute. University of São Paulo (USP), Brazil.
 
 **Visiting researcher | Sep 2024 - Dec 2024 | University of Salford, United Kingdom**
