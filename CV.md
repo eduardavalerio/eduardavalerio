@@ -50,4 +50,4 @@ Languages
   - International experience
  
 
-[Curriculo Lattes]([https://buscatextual.cnpq.br/buscatextual/visualizacv.do#LP_Barcoding%20and%20metabarcoding%20of%20reef-associated%20species%20of%20the%20S%C3%A3o%20Paulo%20coastal%20islands](http://lattes.cnpq.br/4532247823858469))
+[Curriculo Lattes](http://lattes.cnpq.br/4532247823858469)
