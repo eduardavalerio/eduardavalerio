@@ -1,7 +1,9 @@
 # Eduarda Valério de Jesus 
 📧 `eduarda.jesus@usp.br`
 
-Undergraduate student at Oceanographic Institute of the University of São Paulo, interested in Biological and Physical Oceanography, working with molecular ecology and bioinformatics related to environmental DNA (eDNA) in coastal islands in the state of São Paulo, this project is fully funded by São Paulo Research Foundation (FAPESP). International experience at University of Salford, UK, working with eDNA and DNA Metabarcode workflow, funded by FAPESP. 
+Undergraduate student in Oceanography at the Oceanographic Institute of the University of São Paulo (IOUSP) with interest in physical and biological oceanography. With international experience at School of Science, Engineering and Environment at University of Salford - UK, collaborated in projects involving environmental DNA (eDNA) and molecular ecology.
+The first scientific initiation project in Brazil was fully funded by São Paulo Research Foundation (FAPESP) focused on DNA barcode of marine species not cataloged in a genetic sequence database to support research with DNA Metabarcoding as a method of monitoring biodiversity and conservation of coastal islands. Now, working with physical-biological interactions, trying to relate the formation of south atlantic subtropical mode water and the patterns of chlorophyll concentration in the region of Brazil-Malvinas Confluence.
+Experience in R programming language, python, latex and linux, laboratory techniques in molecular biology, field work and environmental samples collection and analyses of oceanographic data. Also, scuba diver certified by PADI.
 
 ## Education
 
@@ -39,6 +41,9 @@ Undergraduate student at Oceanographic Institute of the University of São Paulo
 - DOMINGUES, R. R. ; **JESUS, E. V.** ; BUXBAUM, I. M. G. ; LOTUFO, T. M. C. . Challanges for biomonitoring 2.0 of marine habitat-forming species in Brazil.. 2024. (Apresentação de Trabalho/Congresso).
 - DOMINGUES, R. R. ; **JESUS, E. V.** ; BUXBAUM, I. M. G. ; LOTUFO, T. M. C. . Absence of representative sequences hinders the biomonitoring 2.0 of marine habitat-forming species in Brazil. 2024. (Apresentação de Trabalho/Congresso).
 
+
+## Publications
+- Alvarenga, M. M., Bunholi, I. V., Adachi, A. M. C., Cruz, M. M., Feitosa, L. M., **de Jesus, E. V.**, ... & Paes da Cruz, V. (2025). Rapid DNA/eDNA‐Based ID Tools for Improved Chondrichthyan Monitoring and Management. Molecular Ecology Resources, e70044.
 
 
 ## Additional informations 
