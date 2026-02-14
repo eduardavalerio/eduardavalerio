@@ -2,7 +2,11 @@
 📧 `eduarda.jesus@usp.br`
 
 Undergraduate student in Oceanography at the Oceanographic Institute of the University of São Paulo (IOUSP) with interest in physical and biological oceanography. With international experience at School of Science, Engineering and Environment at University of Salford - UK, collaborated in projects involving environmental DNA (eDNA) and molecular ecology.
-The first scientific initiation project in Brazil was fully funded by São Paulo Research Foundation (FAPESP) focused on DNA barcode of marine species not cataloged in a genetic sequence database to support research with DNA Metabarcoding as a method of monitoring biodiversity and conservation of coastal islands. Now, working with physical-biological interactions, trying to relate the formation of south atlantic subtropical mode water and the patterns of chlorophyll concentration in the region of Brazil-Malvinas Confluence.
+
+The first scientific initiation project in Brazil was fully funded by São Paulo Research Foundation (FAPESP) focused on DNA barcode of marine species not cataloged in a genetic sequence database to support research with DNA Metabarcoding as a method of monitoring biodiversity and conservation of coastal islands. 
+
+Now, working with physical-biological interactions, trying to relate the formation of south atlantic subtropical mode water and the patterns of chlorophyll concentration in the region of Brazil-Malvinas Confluence.
+
 Experience in R programming language, python, latex and linux, laboratory techniques in molecular biology, field work and environmental samples collection and analyses of oceanographic data. Also, scuba diver certified by PADI.
 
 ## Education
@@ -53,6 +57,5 @@ Languages
 - English
   - Cambridge Certified Preliminary English Test (B1), Credential ID B3508893.
   - International experience
- 
 
 [Curriculo Lattes](http://lattes.cnpq.br/4532247823858469)
